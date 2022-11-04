@@ -4,6 +4,7 @@ namespace commun { namespace config {
 
 static constexpr double shares_cw = 0.3333;
 
+
 static constexpr uint8_t max_grages_num = 30;
 
 static constexpr int64_t default_comm_points_grade_sum = 5000;
